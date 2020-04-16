@@ -13,7 +13,7 @@
 
 
 /* global vars */
-#define N 1000000000      // length of measurement array 
+#define N 1000000      // length of measurement array 
 
 
 // Matrix of measurements 
